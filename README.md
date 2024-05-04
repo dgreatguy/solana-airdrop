@@ -35,8 +35,8 @@ This project focuses on implementing specific functionalities for buttons in a p
 
 Contributors names and contact info
 
-Boluwatife
-[@boluteefe](https://github.com/boluteefe)
+Opeyemi
+[@dgreatguy](https://github.com/dgreatguy)
 
 
 ## License
